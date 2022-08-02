@@ -1,19 +1,19 @@
-position,person,personID,start,gender,DOB,DOD,image,enwiki
-monarch,Tupou VI of Tonga,Q208497,2012-03-18,male,1959-07-12,,Ulukalala Lavaka Ata.jpg,Tupou VI
-Prime Minister,Hu'akavameiliku,Q19631293,2021-12-27,male,1970-02-28,,Siaosi Sovaleni 2017.jpg,Siaosi Sovaleni
-Minister of Defence,Hu'akavameiliku,Q19631293,2021-12-28,male,1970-02-28,,Siaosi Sovaleni 2017.jpg,Siaosi Sovaleni
-Minister for Education and Training,Hu'akavameiliku,Q19631293,2019-10-10,male,1970-02-28,,Siaosi Sovaleni 2017.jpg,Siaosi Sovaleni
-Minister for the Environment and Climate Change,Poasi Tei,Q96479418,2018-01-04,male,1967-10-04,,,Poasi Tei
-Minister of Finance,Samiu Vaipulu,Q3470867,2022-03-28,male,1952-12-24,,,Samiu Vaipulu
-Minister for Fisheries,Semisi Fakahau,Q96482295,2021-12-28,male,1948-11-02,,,Semisi Fakahau
-Minister of Foreign Affairs,Fekitamoeloa 'Utoikamanu,Q5441615,2021-12-28,female,1959,,Fekitamoeloa Katoa 'Utoikamanu - 2017 (36374935674) (cropped).jpg,Fekitamoeloa ʻUtoikamanu
-Minister of Health,Saia Piukala,Q96278954,2021-12-28,male,,,Saia Piukala 2018.jpg,Saia Piukala
-Minister of Infrastructure,Sevenitini Toumoʻua,Q110243150,2021-12-28,male,,,,Sevenitini Toumoʻua
-Minister of Justice,Fekitamoeloa 'Utoikamanu,Q5441615,2022-03-28,female,1959,,Fekitamoeloa Katoa 'Utoikamanu - 2017 (36374935674) (cropped).jpg,Fekitamoeloa ʻUtoikamanu
-Minister for Lands and Natural Resources,Lord Tonga Tuʻiʻafitu,Q16194844,2021-12-28,male,1962-10-03,,,Tonga Tuʻiʻafitu
-Minister of Police,Hu'akavameiliku,Q19631293,2021-12-28,male,1970-02-28,,Siaosi Sovaleni 2017.jpg,Siaosi Sovaleni
-Minister of Tourism,Fekitamoeloa 'Utoikamanu,Q5441615,2021-12-28,female,1959,,Fekitamoeloa Katoa 'Utoikamanu - 2017 (36374935674) (cropped).jpg,Fekitamoeloa ʻUtoikamanu
-Minister for Trade and Economic Development,Viliami Latu,Q7930213,2021-12-28,male,,,Viliami Uasike Latu (cropped).jpg,Viliami Latu
-Speaker of the Legislative Assembly,Viliami Tangi,Q7930216,2021-11-20,male,,,,Viliami Tangi
-Governor of the National Reserve Bank,Sione Ngongo Kioa,Q7525389,2013-08-21,male,1959-04-14,,Dmitry Medvedev with Sione Ngongo Kioa.jpg,Sione Ngongo Kioa
-Chief of Defence Staff,Tupou Tongapoʻuli Aleamotuʻa,Q25701935,2014-12-21,male,1966,,Tupou Tongapoʻuli Aleamotuʻa.jpg,Tupou Tongapoʻuli Aleamotuʻa
+position,person,personID,start,end
+monarch,Tupou VI of Tonga,Q208497,2012-03-18,
+Prime Minister,Hu'akavameiliku,Q19631293,2021-12-27,
+Minister of Defence,Hu'akavameiliku,Q19631293,2021-12-28,
+Minister for Education and Training,Hu'akavameiliku,Q19631293,2019-10-10,
+Minister for the Environment and Climate Change,Poasi Tei,Q96479418,2018-01-04,
+Minister of Finance,Samiu Vaipulu,Q3470867,2022-03-28,
+Minister for Fisheries,Semisi Fakahau,Q96482295,2021-12-28,
+Minister of Foreign Affairs,Fekitamoeloa 'Utoikamanu,Q5441615,2021-12-28,
+Minister of Health,Saia Piukala,Q96278954,2021-12-28,
+Minister of Infrastructure,Sevenitini Toumoʻua,Q110243150,2021-12-28,
+Minister of Justice,Fekitamoeloa 'Utoikamanu,Q5441615,2022-03-28,
+Minister for Lands and Natural Resources,Lord Tonga Tuʻiʻafitu,Q16194844,2021-12-28,
+Minister of Police,Hu'akavameiliku,Q19631293,2021-12-28,
+Minister of Tourism,Fekitamoeloa 'Utoikamanu,Q5441615,2021-12-28,
+Minister for Trade and Economic Development,Viliami Latu,Q7930213,2021-12-28,
+Speaker of the Legislative Assembly,Viliami Tangi,Q7930216,2021-11-20,
+Governor of the National Reserve Bank,Sione Ngongo Kioa,Q7525389,2013-08-21,
+Chief of Defence Staff,Tupou Tongapoʻuli Aleamotuʻa,Q25701935,2014-12-21,
