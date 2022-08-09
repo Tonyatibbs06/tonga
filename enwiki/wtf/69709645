@@ -1,0 +1,210 @@
+{
+  "title": "Sione Siale Fohe",
+  "pageID": 69709645,
+  "categories": [
+    "Living people",
+    "Tongan nobles",
+    "Members of the Legislative Assembly of Tonga",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sione Siale Fohe, styled Lord Fohe, is a Tongan noble, politician, and Cabinet minister.",
+              "links": [
+                {
+                  "text": "Tongan",
+                  "type": "internal",
+                  "page": "Tonga"
+                },
+                {
+                  "text": "Cabinet minister",
+                  "type": "internal",
+                  "page": "Cabinet of Tonga"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sione Siale Fohe",
+                  "Lord Fohe"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed to the title of Lord Fohe in November 2016."
+            },
+            {
+              "text": "In October 2021 he was fined TOP$500 for assaulting a tenant on his estate."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was first elected to the Legislative Assembly of Tonga at the 2021 Tongan general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Legislative Assembly of Tonga"
+                },
+                {
+                  "text": "2021 Tongan general election",
+                  "type": "internal",
+                  "page": "2021 Tongan general election"
+                }
+              ]
+            },
+            {
+              "text": "On 29 July 2022 he was appointed Minister for Agriculture, Food, and Forests, replacing Viliami Hingano.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Viliami Hingano"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tongan noble and politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sione Siale Fohe"
+          },
+          "office4": {
+            "text": "Minister for Agriculture, Food, Forests"
+          },
+          "primeminister4": {
+            "text": "Siaosi Sovaleni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siaosi Sovaleni"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "29 July 2022"
+          },
+          "predecessor4": {
+            "text": "Viliami Hingano",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viliami Hingano"
+              }
+            ]
+          },
+          "constituency_mp10": {
+            "text": "Tongatapu Noble's constituency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tongatapu Noble's constituency"
+              }
+            ]
+          },
+          "parliament10": {
+            "text": "Tongan"
+          },
+          "term_start10": {
+            "text": "18 November 2021"
+          },
+          "predecessor10": {
+            "text": "Lord Vahaʻi",
+            "links": [
+              {
+                "text": "Lord Vahaʻi",
+                "type": "internal",
+                "page": "Nikotimasi Fatafehi Laufilitonga Kakau Vahaʻi"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.kanivatonga.nz/2016/11/king-appoints-lord-fohe/",
+          "title": "King appoints Lord Fohe",
+          "publisher": "Kaniva Tonga",
+          "date": "27 November 2016",
+          "access-date": "9 January 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.tonga-broadcasting.net/?p=3817",
+          "title": "Sione Siale Fohe installed to the hereditary title of Lord Fohe",
+          "publisher": "Tonga Broadcasting Commission",
+          "date": "21 November 2016",
+          "access-date": "9 January 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.kanivatonga.nz/2021/10/lord-fohe-fined-500-over-resident-assault/",
+          "title": "Lord Fohe fined $500 over resident assault",
+          "publisher": "Kaniva Tonga",
+          "date": "20 October 2021",
+          "access-date": "9 January 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://pina.com.fj/2021/11/19/nine-nobles-elected-in-tonga/",
+          "title": "Nine Nobles elected in Tonga",
+          "publisher": "PINA",
+          "date": "19 November 2021",
+          "access-date": "9 January 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.rnz.co.nz/international/pacific-news/456023/twelve-new-mps-in-tonga-election-but-no-women-elected",
+          "title": "Twelve new MPs in Tonga election - but no women elected",
+          "publisher": "RNZ",
+          "date": "19 November 2021",
+          "access-date": "9 January 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://matangitonga.to/2022/08/02/lord-fohe-appointed-minister-agriculture",
+          "title": "Lord Fohe appointed Minister of Agriculture",
+          "publisher": "Matangi Tonga",
+          "date": "2 August 2022",
+          "access-date": "3 August 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "tonga-politician-stub"
+        }
+      ]
+    }
+  ]
+}
