@@ -114,6 +114,9 @@
           "term_start": {
             "text": "28 December 2021"
           },
+          "term_end": {
+            "text": "9 August 2022"
+          },
           "predecessor": {
             "text": "Lord Maʻafu",
             "links": [
@@ -148,6 +151,9 @@
           "term_start1": {
             "text": "4 January 2018"
           },
+          "term_end1": {
+            "text": "9 August 2022"
+          },
           "predecessor1": {
             "text": "Siaosi Sovaleni",
             "links": [
@@ -162,6 +168,9 @@
           },
           "term_start2": {
             "text": "28 December 2021"
+          },
+          "term_end2": {
+            "text": "9 August 2022"
           },
           "primeminister2": {
             "text": "Siaosi Sovaleni",
@@ -227,6 +236,9 @@
           },
           "term_start5": {
             "text": "27 November 2014"
+          },
+          "term_end5": {
+            "text": "9 August 2022"
           },
           "predecessor5": {
             "text": "Siosifa Tuʻutafaiva",
@@ -364,6 +376,9 @@
             },
             {
               "text": "The conviction was stayed pending appeal on 26 May 2022."
+            },
+            {
+              "text": "On 9 August 2022 his appeal was dismissed, and his election confirmed as void."
             }
           ]
         }
@@ -434,6 +449,24 @@
           "publisher": "RNZ",
           "date": "26 May 2022",
           "access-date": "26 May 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://matangitonga.to/2022/08/09/appeals-dismissed-three-cabinet-ministers-elections-void",
+          "title": "Appeals dismissed, three Cabinet Ministers elections void",
+          "publisher": "Matangi Tonga",
+          "date": "9 August 2022",
+          "access-date": "10 August 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.kanivatonga.nz/2022/08/tonga-court-dismisses-three-cabinet-ministers-electoral-fraud-appeals-upholds-former-pms-appeal/",
+          "title": "Tonga court dismisses three Cabinet Ministers’ electoral fraud appeals; upholds former PM’s appeal",
+          "publisher": "Kaniva Tonga",
+          "date": "9 August 2022",
+          "access-date": "10 August 2022",
           "template": "citation",
           "type": "web"
         },
