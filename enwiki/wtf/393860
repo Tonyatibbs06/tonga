@@ -26,9 +26,13 @@
               "text": "Tupou VI (‘Aho‘eitu ʻUnuakiʻotonga Tukuʻaho; born 12 July 1959) is the King of Tonga.",
               "links": [
                 {
-                  "text": "King of Tonga",
+                  "text": "King",
                   "type": "internal",
                   "page": "List of monarchs of Tonga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tonga"
                 }
               ],
               "formatting": {
@@ -57,7 +61,7 @@
                 {
                   "text": "Throne of Tonga",
                   "type": "internal",
-                  "page": "King of Tonga"
+                  "page": "List of monarchs of Tonga"
                 }
               ]
             },
@@ -151,8 +155,9 @@
             "text": "King of Tonga",
             "links": [
               {
+                "text": "King of Tonga",
                 "type": "internal",
-                "page": "King of Tonga"
+                "page": "List of monarchs of Tonga"
               }
             ]
           },
