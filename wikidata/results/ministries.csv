@@ -1,5 +1,5 @@
-item,itemLabel,minister,ministerLabel
-Q30266905,Ministry of Agriculture and Forestry and Food,,
-Q70833119,Ministry of Finance & National Planning,,
-Q108737151,Ministry of Health,,
-Q65051843,"Tongan Ministry of Land, Survey, and Natural Resources",,
+item,itemLabel,minister,ministerLabel,began,ended
+Q30266905,Ministry of Agriculture and Forestry and Food,,,,
+Q70833119,Ministry of Finance & National Planning,,,,
+Q108737151,Ministry of Health,,,,
+Q65051843,"Tongan Ministry of Land, Survey, and Natural Resources",,,,
