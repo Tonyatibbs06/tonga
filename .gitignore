@@ -1,2 +1,4 @@
-pcb/
-run-comparison.sh
+/pcb/
+/wtf/
+/node_modules/
+package*.json
