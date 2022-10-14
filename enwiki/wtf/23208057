@@ -250,6 +250,10 @@
         {
           "description": "Tongan diplomat",
           "template": "short description"
+        },
+        {
+          "date": "October 2022",
+          "template": "update"
         }
       ],
       "infoboxes": [
