@@ -858,48 +858,14 @@
       ]
     },
     {
-      "title": "Name and titles",
+      "title": "Honours",
       "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "It is customary in Tongan culture that princes get a traditional chiefly title, by which they then are commonly known.",
-              "links": [
-                {
-                  "text": "Tongan culture",
-                  "type": "internal",
-                  "page": "culture of Tonga"
-                }
-              ]
-            },
-            {
-              "text": "As such for many years, until his confirmation as Heir Presumptive, ʻAhoʻeitu was known by either one or all three of the titles which were bestowed on him over the time: Lavaka from Pea, ʻAta from Kolovai and ʻAtatā and ʻUlukālala from Fangatongo.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Kolovai"
-                },
-                {
-                  "text": "ʻUlukālala",
-                  "type": "internal",
-                  "page": "Finau 'Ulukalala"
-                }
-              ]
-            },
-            {
-              "text": "These titles may be used in any order (the one belonging to the area from which the speaker is coming usually first)."
-            },
-            {
-              "text": "Nevertheless, the sequences Lavaka Ata ʻUlukālala and ʻUlukālala Lavaka Ata were most common."
-            }
-          ]
-        }
-      ],
       "templates": [
         {
-          "date": "April 2019",
-          "template": "fact"
+          "list": [
+            "List of honours of the Tongan Royal Family by country"
+          ],
+          "template": "see also"
         }
       ],
       "infoboxes": [
@@ -908,43 +874,14 @@
             "text": "King Tupou VI of Tonga"
           },
           "image": {
-            "text": "Coat of arms of Tonga.svg"
+            "text": "Royal Monogram of King Tupou VI of Tonga.svg"
           },
           "dipstyle": {
             "text": "His Majesty"
           },
           "offstyle": {
             "text": "Your Majesty"
-          },
-          "altstyle": {
-            "text": "Sir"
           }
-        }
-      ]
-    },
-    {
-      "title": "Honours",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "images": [
-        {
-          "file": "File:Royal_Monogram_of_King_Tupou_VI_of_Tonga.svg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Royal_Monogram_of_King_Tupou_VI_of_Tonga.svg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Royal_Monogram_of_King_Tupou_VI_of_Tonga.svg",
-          "caption": "Royal monogram of Tupou VI",
-          "links": []
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "List of honours of the Tongan Royal Family by country"
-          ],
-          "template": "see also"
         }
       ]
     },
@@ -1123,37 +1060,8 @@
       ]
     },
     {
-      "title": "Ancestry",
-      "depth": 0,
-      "templates": [
-        {
-          "1": "1. ʻAhoʻeitu Tupou VI",
-          "2": "2. Tāufaʻāhau Tupou IV",
-          "3": "3. Halaevalu Mataʻaho ʻAhomeʻe",
-          "4": "4. Viliami Tungī Mailefihi",
-          "5": "5. Sālote Tupou III",
-          "6": "6. Tēvita Manuopangai ʻAhomeʻe",
-          "7": "7. Heuʻifanga Veikune",
-          "8": "8. Siaosi U. Tukuʻaho",
-          "9": "9. Mele Siuʻilikutapu",
-          "10": "10. George Tupou II",
-          "11": "11. Lavinia Veiongo Fotu",
-          "12": "12. Solomone Piutau ʻOtukolo ʻAhomeʻe",
-          "13": "13. ʻAmelia Moʻungaʻaelangi Maealiuaki",
-          "14": "14. Fotu ʻa Falefā Veikune",
-          "15": "15. Vāhoi ʻAtaongo",
-          "collapsed": "yes",
-          "boxstyle_1": "background-color: #fcc;",
-          "boxstyle_2": "background-color: #fb9;",
-          "boxstyle_3": "background-color: #ffc;",
-          "boxstyle_4": "background-color: #bfc;",
-          "template": "ahnentafel"
-        }
-      ]
-    },
-    {
       "title": "Family tree",
-      "depth": 1,
+      "depth": 0,
       "templates": [
         {
           "template": "tupou family tree"
