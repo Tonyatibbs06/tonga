@@ -877,7 +877,14 @@
             "text": "Royal Monogram of King Tupou VI of Tonga.svg"
           },
           "dipstyle": {
-            "text": "His Majesty"
+            "text": "His Majesty",
+            "links": [
+              {
+                "text": "His Majesty",
+                "type": "internal",
+                "page": "Majesty"
+              }
+            ]
           },
           "offstyle": {
             "text": "Your Majesty"
