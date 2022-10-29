@@ -2,11 +2,11 @@
   "title": "Semisi Fakahau",
   "pageID": 64337890,
   "categories": [
-    "Living people",
     "Members of the Legislative Assembly of Tonga",
     "Government ministers of Tonga",
     "Democratic Party of the Friendly Islands politicians",
-    "1948 births"
+    "1948 births",
+    "2022 deaths"
   ],
   "sections": [
     {
@@ -16,7 +16,7 @@
         {
           "sentences": [
             {
-              "text": "Semisi Tauelangi Fakahau (born 11 February 1948) is a Tongan politician and Cabinet Minister.",
+              "text": "Semisi Tauelangi Fakahau (11 February 1948 − 27 October 2022) was a Tongan politician and Cabinet Minister.",
               "links": [
                 {
                   "text": "Tongan",
@@ -36,7 +36,7 @@
               }
             },
             {
-              "text": "He is a member of the Democratic Party of the Friendly Islands.",
+              "text": "He was a member of the Democratic Party of the Friendly Islands.",
               "links": [
                 {
                   "type": "internal",
@@ -150,11 +150,24 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Fakahau died on 27 October 2022 in Tongatapu, Tonga, at the age of 74.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tongatapu"
+                }
+              ]
+            }
+          ]
         }
       ],
       "templates": [
         {
-          "description": "Tongan politician",
+          "description": "Tongan politician (1948–2022)",
           "template": "short description"
         },
         {
@@ -162,11 +175,27 @@
           "template": "use dmy dates"
         },
         {
-          "year": "1948",
-          "month": "2",
-          "day": "11",
+          "template": "date",
+          "data": {
+            "year": "1948",
+            "month": "2",
+            "date": "11",
+            "df": "y",
+            "template": "birth date",
+            "text": "February 11, 1948"
+          }
+        },
+        {
+          "year": "2022",
+          "month": "10",
+          "day": "27",
+          "list": [
+            "1948",
+            "2",
+            "11"
+          ],
           "df": "y",
-          "template": "birth date and age"
+          "template": "death date and age"
         }
       ],
       "infoboxes": [
@@ -188,6 +217,9 @@
           },
           "term_start2": {
             "text": "28 December 2021"
+          },
+          "term_end2": {
+            "text": "27 October 2022"
           },
           "predecessor2": {
             "text": "Lord Tuʻilakepa",
@@ -285,6 +317,9 @@
           "term_start5": {
             "text": "27 November 2014"
           },
+          "term_end5": {
+            "text": "27 October 2022"
+          },
           "predecessor5": {
             "text": "Sione Taione",
             "links": [
@@ -296,6 +331,18 @@
           },
           "birth_date": {
             "text": "February 11, 1948"
+          },
+          "death_date": {
+            "text": "October 27, 2022"
+          },
+          "death_place": {
+            "text": "Tongatapu, Tonga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tongatapu"
+              }
+            ]
           },
           "party": {
             "text": "Democratic Party of the Friendly Islands",
@@ -331,6 +378,15 @@
           "type": "web"
         },
         {
+          "url": "https://www.kanivatonga.co.nz/2022/10/tongan-minister-for-fisheries-dies/",
+          "title": "Tongan Minister for Fisheries dies",
+          "publisher": "Kaniva Tonga",
+          "date": "27 October 2022",
+          "access-date": "29 October 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "url": "https://www.parliament.gov.to/members-of-parliament/ministers/307-hon-semisi-fakahau",
           "title": "Hon. Semisi Fakahau",
           "publisher": "Parliament of Tonga",
@@ -351,6 +407,15 @@
           "archive-date": "29 December 2021",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "PM announces death of Fisheries Minister",
+          "url": "https://matangitonga.to/2022/10/28/pm-announces-death-fisheries-minister",
+          "access-date": "28 October 2022",
+          "work": "Matangi Tonga",
+          "date": "28 October 2022",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
