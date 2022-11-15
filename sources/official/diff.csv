@@ -1,7 +1,6 @@
-@@,name,position
----,Sione Siale Fohe,"Minister for Agriculture, Food, and Forests"
-+++,Semisi Fakahau,Minister of Fisheries
-+++,Sangster Saulala,Minister of Internal Affairs
-+++,Poasi Tei,"Minister of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications"
-+++,Poasi Tei,Deputy Prime Minister
-+++,Manuopangai Hingano,"Minister of Agriculture, Forestry & Food"
+@@,item,itemlabel,position,positionlabel,startdate,enddate,psid
++++,,Manuopangai Hingano,,"Minister of Agriculture, Forestry & Food",,,
++++,,Poasi Tei,,"Minister of Meteorology, Energy, Information, Disaster Management, Environment, Climate Change and Communications",,,
++++,,Poasi Tei,,Deputy Prime Minister,,,
++++,,Semisi Fakahau,,Minister of Fisheries,,,
+---,Q31827675,Sione Siale Fohe,Q108888398,"Minister for Agriculture, Food, and Forests",2022-07-29,,Q31827675-7829E88E-4733-46AE-9E2E-198C58FDB6AF
