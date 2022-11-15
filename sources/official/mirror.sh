@@ -1,13 +1,20 @@
 #!/bin/bash
 
-set -e
-
 cd $(dirname $0)
 
-if [[ $(jq -r .source.url meta.json) == http* ]]
+if [[ $(jq -r .reference.P854 meta.json) == http* ]]
 then
-  CURLOPTS='-f -L -c /tmp/cookies -A eps/1.2'
-  curl $CURLOPTS -o official.html $(jq -r .source.url meta.json)
+  TMPFILE=$(mktemp)
+  CURLOPTS='-L -b /tmp/cookies -c /tmp/cookies --compressed --insecure'
+
+  curl $CURLOPTS -A 'Chrome/51.0.2704.103 Safari/537.36' -o $TMPFILE $(jq -r .reference.P854 meta.json)
+
+  if grep -q "403 Forbidden" $TMPFILE; then
+    echo "403 Forbidden"
+    exit
+  else
+    mv $TMPFILE official.html
+  fi
 fi
 
-cd -
+cd ~-

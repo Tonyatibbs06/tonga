@@ -8,13 +8,15 @@
       "start": "2021-12-27",
       "parent": "Q1567190"
     },
-    "source": {
-        "url":   "https://parliament.gov.to/14-parliament-data-articles/774-ministers",
-        "title": "Ministers",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://parliament.gov.to/14-parliament-data-articles/774-ministers",
+        "P1476": {
+            "text": "Ministers",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/tonga-ministers"
+    "current_only": "true",
+    "person_description": {
+        "en": "Tongan politician"
+    }
 }
