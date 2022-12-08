@@ -117,31 +117,17 @@
           "day": "12",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "template": "infobox",
+          "type": "person",
+          "data": {
+            "embed": {},
+            "alma_mater": {}
+          }
         }
       ],
       "infoboxes": [
-        {
-          "embed": {
-            "text": "yes"
-          },
-          "alma_mater": {
-            "text": "University of East Anglia University of New South Wales Bond University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of East Anglia"
-              },
-              {
-                "type": "internal",
-                "page": "University of New South Wales"
-              },
-              {
-                "type": "internal",
-                "page": "Bond University"
-              }
-            ]
-          }
-        },
         {
           "name": {
             "text": "Tupou VI"
