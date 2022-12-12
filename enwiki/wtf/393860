@@ -201,6 +201,18 @@
               }
             ]
           },
+          "reg-type1": {
+            "text": "Monarch"
+          },
+          "regent1": {
+            "text": "Tāufaʻāhau Tupou IV",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tāufaʻāhau Tupou IV"
+              }
+            ]
+          },
           "reign1": {
             "text": "3 January 2000 – 11 February 2006"
           },
@@ -222,18 +234,6 @@
               {
                 "type": "internal",
                 "page": "Feleti Sevele"
-              }
-            ]
-          },
-          "reg-type1": {
-            "text": "Monarch"
-          },
-          "regent1": {
-            "text": "Tāufaʻāhau Tupou IV",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tāufaʻāhau Tupou IV"
               }
             ]
           },
@@ -333,10 +333,15 @@
           "inline": {}
         },
         {
+          "url": "http://www.matangitonga.to/article/tonganews/royalty/tupoutoa_lavaka270906.shtml",
+          "title": "Tupouto'a Lavaka, Tonga's new Crown Prince",
+          "publisher": "Matangi Tonga",
+          "date": "27 September 2006",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20061103043418/http://www.matangitonga.to/article/tonganews/royalty/tupoutoa_lavaka270906.shtml",
+          "archive-date": "3 November 2006",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
           "url": "http://www.pmo.gov.to/news-today/press-releases/3490-announcement-of-the-passing-of-his-late-majesty-a-proclamation-of-the-new-king",
@@ -538,10 +543,6 @@
         {
           "date": "April 2019",
           "template": "fact"
-        },
-        {
-          "date": "April 2019",
-          "template": "fact"
         }
       ],
       "references": [
@@ -683,10 +684,6 @@
         },
         {
           "template": "tongan royal family"
-        },
-        {
-          "date": "April 2019",
-          "template": "fact"
         }
       ],
       "lists": [
