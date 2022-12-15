@@ -432,7 +432,7 @@
               }
             },
             {
-              "text": "He graduated with a masters in Defence Studies from the University of New South Wales in 1997 and with an MA in International Relations from Bond University in 1999.",
+              "text": "He graduated from the University of New South Wales in 1997 with a master's degree in defence studies and from Bond University in 1999 with a master's degree in international relations.",
               "links": [
                 {
                   "type": "internal",
@@ -539,12 +539,6 @@
           ]
         }
       ],
-      "templates": [
-        {
-          "date": "April 2019",
-          "template": "fact"
-        }
-      ],
       "references": [
         {
           "title": "King of Tonga, an Old Leysian, hosts royal tour",
@@ -562,6 +556,14 @@
           "access-date": "26 September 2014",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "The Monarch",
+          "url": "https://www.consulatekot.eu/the-monarch",
+          "access-date": "14 December 2022",
+          "website": "Consulate of the Kingdom of Tonga",
+          "template": "citation",
+          "type": "web"
         },
         {
           "date": "2010-01-26",
@@ -679,10 +681,6 @@
           "template": "fact"
         },
         {
-          "date": "December 2021",
-          "template": "cn"
-        },
-        {
           "template": "tongan royal family"
         }
       ],
@@ -700,7 +698,7 @@
         ],
         [
           {
-            "text": "Crown Prince Tupoutoʻa ʻUlukalala – Siaosi Manumataongo ʻAlaivahamamaʻo ʻAhoʻeitu Konstantin Tukuʻaho (17 September 1985, Nukuʻalofa). He married on 12 July 2012 Sinaitakala Fakafanua, daughter of late High Chief Kinikinilau Fakafanua and Princess Ofeina, Lady Fakafanua, both King Tupou VI's first cousins. They have four children: Prince Taufaʻahau Manumataongo – Taufaʻahau Manumataongo Tukuʻaho (born 10 May 2013 at Auckland City Hospital in Auckland), Princess Halaevalu Mata'aho (born 12 July 2015, Auckland City Hospital in Auckland), Princess Nanasipau’u (born 20 March 2018, Auckland Hospital in Auckland) and Princess Salote Mafile’o Pilolevu (born 25 February 2021, Calvary Hospital in Canberra).",
+            "text": "Crown Prince Tupoutoʻa ʻUlukalala – Siaosi Manumataongo ʻAlaivahamamaʻo ʻAhoʻeitu Konstantin Tukuʻaho (17 September 1985, Nukuʻalofa). He married on 12 July 2012 Sinaitakala Fakafanua, his second cousin. They have four children: Prince Taufaʻahau Manumataongo – Taufaʻahau Manumataongo Tukuʻaho (born 10 May 2013 at Auckland City Hospital in Auckland), Princess Halaevalu Mata'aho (born 12 July 2015, Auckland City Hospital in Auckland), Princess Nanasipau’u (born 20 March 2018, Auckland Hospital in Auckland) and Princess Salote Mafile’o Pilolevu (born 25 February 2021, Calvary Hospital in Canberra).",
             "links": [
               {
                 "type": "internal",
@@ -751,6 +749,18 @@
             ]
           }
         ]
+      ],
+      "references": [
+        {
+          "url": "https://www.telegraph.co.uk/news/worldnews/australiaandthepacific/tongafrenchpolynesia/9394358/Tongan-crown-prince-marries-second-cousin.html",
+          "title": "Tongan crown prince marries second cousin",
+          "publisher": "The Telegraph",
+          "author": "Jonathan Pearlman",
+          "date": "12 July 2012",
+          "access-date": "14 December 2022",
+          "template": "citation",
+          "type": "web"
+        }
       ]
     },
     {
