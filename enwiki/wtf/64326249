@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Siaosi ‘Ofakivahafolau Sovaleni (born 28 February 1970) is a Tongan politician who has served as the Prime Minister of Tonga since 2021.",
+              "text": "Siaosi ‘Ofakivahafolau Sovaleni (born 28 February 1970) styled Hon. Hu'akavameiliku is a Tongan politician who has served as the Prime Minister of Tonga since 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -36,7 +36,8 @@
               ],
               "formatting": {
                 "bold": [
-                  "Siaosi ‘Ofakivahafolau Sovaleni"
+                  "Siaosi ‘Ofakivahafolau Sovaleni",
+                  "Hon. Hu'akavameiliku"
                 ]
               }
             },
@@ -53,6 +54,9 @@
                   "page": "Deputy Prime Minister of Tonga"
                 }
               ]
+            },
+            {
+              "text": "He is the current estate holder of the village of Ha'asini."
             }
           ]
         }
