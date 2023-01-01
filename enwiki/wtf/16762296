@@ -52,11 +52,16 @@
               }
             },
             {
-              "text": "From 2005 to 2009 she was Tonga's permanent ambassador to the United Nations, and from 2017 to 2021 she was United Nations High Representative for the [[United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States|Least Developed Countries, Landlocked Developing Countries and Small Island Developing States]].",
+              "text": "From 2005 to 2009 she was Tonga's permanent ambassador to the United Nations, and from 2017 to 2021 she was United Nations High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States.",
               "links": [
                 {
                   "type": "internal",
                   "page": "United Nations"
+                },
+                {
+                  "text": "Least Developed Countries, Landlocked Developing Countries and Small Island Developing States",
+                  "type": "internal",
+                  "page": "United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States"
                 }
               ]
             }
@@ -289,7 +294,14 @@
         {
           "sentences": [
             {
-              "text": "On 12 April 2017 she was appointed United Nations High Representative for the [[United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States|Least Developed Countries, Landlocked Developing Countries and Small Island Developing States]]."
+              "text": "On 12 April 2017 she was appointed United Nations High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States.",
+              "links": [
+                {
+                  "text": "Least Developed Countries, Landlocked Developing Countries and Small Island Developing States",
+                  "type": "internal",
+                  "page": "United Nations Office of the High Representative for the Least Developed Countries, Landlocked Developing Countries and Small Island Developing States"
+                }
+              ]
             },
             {
               "text": "In April 2021 she was succeeded in the role by Earle Courtenay Rattray.",
