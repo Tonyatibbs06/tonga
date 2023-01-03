@@ -47,7 +47,7 @@
               }
             },
             {
-              "text": "He is the current governor of National Reserve Bank of Tonga.",
+              "text": "From 2013 to 2022 he served as governor of National Reserve Bank of Tonga.",
               "links": [
                 {
                   "type": "internal",
@@ -293,6 +293,15 @@
               }
             ]
           },
+          "successor1": {
+            "text": "Tatafu Moeaki",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tatafu Moeaki"
+              }
+            ]
+          },
           "birth_date": {
             "text": "14 April 1959"
           },
@@ -503,9 +512,6 @@
       "templates": [
         {
           "template": "reflist"
-        },
-        {
-          "template": "tonga-politician-stub"
         }
       ]
     }
