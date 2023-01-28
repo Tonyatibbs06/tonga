@@ -1,5 +1,4 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-30987508,,,,,,,,,0
-30987508,,Minister for Lands and Natural Resources,2021-12-28,,Q3485136,Lord Maʻafu,,,1
-30987508,,Minister for Health,2012-07-05,2014-11-27,‘Uliti Uata,‘Uliti Uata,Q96278954,Saia Piukala,2
-30987508,Vavaʻu Nobles' constituency,MP for Vavaʻu Nobles' constituency,2010-11-25,,,,,,3
+who,position,began,ended
+30987508,MP for Vavaʻu Nobles' constituency,2010-11-25,
+30987508,Minister for Health,2012-07-05,2014-11-27
+30987508,Minister for Lands and Natural Resources,2021-12-28,

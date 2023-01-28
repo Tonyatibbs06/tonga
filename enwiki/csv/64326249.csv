@@ -1,8 +1,7 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-64326249,Q915636,18th Prime Minister of Tonga,2021-12-27,,Q48778102,Pōhiva Tuʻiʻonetoa,,,0
-64326249,,Minister of Education and Training,2019-10-10,,Q96470811,Penisimani Fifita,,,1
-64326249,,,,,,,,,2
-64326249,,"Minister for Police, Fire & Emergency Services",2021-12-28,,Q25701258,Lord Nuku,,,3
-64326249,,Minister for His Majesty's Armed Forces,2021-12-28,,Q3485136,Lord Maʻafu,,,4
-64326249,Q108887636,Deputy Prime Minister of Tonga,2014-12-30,2017-09-06,Q3470867,Samiu Vaipulu,Q3485136,Lord Maʻafu,5
-64326249,,Minister for Environment and Communication,2014-12-30,2017-09-06,Q3485136,Lord Maʻafu,Q96479418,Poasi Tei,6
+who,position,began,ended
+64326249,Deputy Prime Minister of Tonga,2014-12-30,2017-09-06
+64326249,Minister for Environment and Communication,2014-12-30,2017-09-06
+64326249,Minister of Education and Training,2019-10-10,
+64326249,18th Prime Minister of Tonga,2021-12-27,
+64326249,"Minister for Police, Fire & Emergency Services",2021-12-28,
+64326249,Minister for His Majesty's Armed Forces,2021-12-28,

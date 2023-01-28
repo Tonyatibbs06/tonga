@@ -1,6 +1,5 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-69321458,,,,,,,,,0
-69321458,National Reserve Bank of Tonga,Governor of National Reserve Bank of Tonga,2022-12-20,,Q7525389,Sione Ngongo Kioa,,,1
-69321458,Q104855433,Minister of Finance,2021-12-28,2022-08-10,Q96574147,Tevita Lavemaau,Tiofilusi Tiueti,Tiofilusi Tiueti,2
-69321458,,Minister for Revenue and Customs,2021-12-28,2022-08-10,Q96574147,Tevita Lavemaau,,,3
-69321458,,Minister for Trade and Economic Development,2021-01-25,2021-12-28,Q3470867,Samiu Vaipulu,Q7930213,Viliami Latu,4
+who,position,began,ended
+69321458,Minister for Trade and Economic Development,2021-01-25,2021-12-28
+69321458,Minister of Finance,2021-12-28,2022-08-10
+69321458,Minister for Revenue and Customs,2021-12-28,2022-08-10
+69321458,Governor of National Reserve Bank of Tonga,2022-12-20,

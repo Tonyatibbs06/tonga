@@ -1,7 +1,6 @@
-who,position,positionLabel,startDate,endDate,replaces,replacesLabel,replacedBy,replacedByLabel,posidx
-26445785,,,,,,,,,0
-26445785,,Minister for Justice and Prisons,2021-01-25,,Q70515784,Sione Vuna Fa'otusia,,,1
-26445785,,Minister for Trade and Economic Development,2019-10-10,2021-01-25,Q96574317,Tevita Tu'i Uata,Q109661097,Tatafu Moeaki,2
-26445785,,Deputy Prime Minister of Tonga,2011-01-05,2014-12-30,Q7930216,Viliami Tangi,Q19631293,Siaosi Sovaleni,3
-26445785,,Minister for Infrastructure,2013-01-07,2014-12-30,,himself (as Minister for Transport and Works),‘Etuate Lavulavu,‘Etuate Lavulavu,4
-26445785,,Minister for Justice,2009-11-10,2011-09-01,,,Q5134552,Clive Edwards,5
+who,position,began,ended
+26445785,Minister for Justice,2009-11-10,2011-09-01
+26445785,Deputy Prime Minister of Tonga,2011-01-05,2014-12-30
+26445785,Minister for Infrastructure,2013-01-07,2014-12-30
+26445785,Minister for Trade and Economic Development,2019-10-10,2021-01-25
+26445785,Minister for Justice and Prisons,2021-01-25,
